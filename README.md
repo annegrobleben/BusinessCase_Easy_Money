@@ -1,4 +1,4 @@
-This repository contains three notebooks that were created as part of the final project for a Master in Data Science & AI at Nuclio Digital School. This final project is a business case to help company "easyMoney" 
+This repository contains three notebooks that were created as part of the final project for a Master in Data Science & AI at Nuclio Digital School (2024). This final project is a business case to help company "easyMoney" 
 understand their customers and run a Direct Marketing campaign. The business case contains several subtasks, and the notebooks in this repository are related to data analysis, customer segmentation and model building.
 
 1) Data_analysis_active_inactive_and_socioeconomic:
