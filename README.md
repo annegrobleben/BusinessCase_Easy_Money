@@ -11,5 +11,4 @@ is created during the segmentation.
 3) Model_financing_products
 This notebook aims at creating a classification model used to identify potential recipients for the Direct Marketing campaign.
 
-All three notebooks were created in Google Colab. To run them, the attached files in the zipped folder "easyMoney_data" need to be added in MyDrive. To run the notebooks in an application other 
-than Google Colab the second and third code cells in each of the notebooks would need to be adjusted.
+All three notebooks were created in Google Colab. To run them, the zipped folder "easyMoney_data" needs to be downloaded from this link: https://drive.google.com/drive/folders/15PJnym2OQMrYzZVq97IA_bc6s7uAZPzj?usp=sharing and then uploaded in "MyDrive". To run the notebooks in an application other than Google Colab the second and third code cells in each of the notebooks would need to be adjusted accordingly.
